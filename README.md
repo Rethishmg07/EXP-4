@@ -36,16 +36,34 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
+Half wave rectifier without filter:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/912e9d39-e61a-4182-ba5f-4dece692190e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c12ccc1-c3cc-4731-8e9a-004d890d0697" />
+CIRCUIR:
+<img width="1280" height="642" alt="image" src="https://github.com/user-attachments/assets/feae5e95-3651-4cfc-89b2-3eb1c2be891a" />
 Half wave rectifier with filter:
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8fc267f3-23ad-49b9-8129-dad9a74044c6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/86169b2b-a9ef-4325-b0e5-869d91ecba07" />
+CIRCUIR:
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a179bba5-314d-41b1-a1a7-713811791dca" />
+MODEL GRAPH
+<img width="938" height="1086" alt="image" src="https://github.com/user-attachments/assets/9a40ec6b-7ee5-4b57-84d2-5badb4ca1d7b" />
+TABULAR COLUMN
+<img width="1280" height="703" alt="image" src="https://github.com/user-attachments/assets/49f3e36b-553a-4068-bb40-ed5d7b3b59ea" />
+Bridge rectifier without filter:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cef72b58-bb86-47eb-9a88-e3ac921704fd" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d22cc899-7ac6-4f05-9e63-2025e774ad89" />
+CIRCUIT
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/240a00e9-9f2f-4398-b27c-3d644fad2f32" />
 Bridge rectifier with filter:
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d71d0cf8-507b-4e7a-b8b0-1ceeb89ef4ce" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43fb5244-20db-471d-847a-b58a98dfba7c" />
+CIRCUIT
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b8f70743-3726-4dcd-8b0e-7aadb80e21ac" />
 TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
-
-WAVEFORM:
+<img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/b4e52f68-482f-4314-ba6d-b3ed7b9e4673" />
+MODEL GRAPH ;
+<img width="1280" height="1018" alt="image" src="https://github.com/user-attachments/assets/34392804-45d5-4a15-8d65-6eafe431e756" />
 
 
 RESULT:
